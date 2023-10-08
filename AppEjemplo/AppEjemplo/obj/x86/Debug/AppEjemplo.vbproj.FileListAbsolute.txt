@@ -1,0 +1,20 @@
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\bin\Debug\AppEjemplo.exe.config
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\bin\Debug\AppEjemplo.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\bin\Debug\AppEjemplo.pdb
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\bin\Debug\AppEjemplo.xml
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\obj\x86\Debug\AppEjemplo.Form1.resources
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\obj\x86\Debug\AppEjemplo.Resources.resources
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\obj\x86\Debug\AppEjemplo.vbproj.GenerateResource.Cache
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\obj\x86\Debug\AppEjemplo.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\obj\x86\Debug\AppEjemplo.xml
+C:\Users\andre\AppData\Local\Temporary Projects\AppEjemplo\obj\x86\Debug\AppEjemplo.pdb
+C:\Users\andre\onedrive\documentos\visual studio 2010\Projects\AppEjemplo\AppEjemplo\bin\Debug\AppEjemplo.exe.config
+C:\Users\andre\onedrive\documentos\visual studio 2010\Projects\AppEjemplo\AppEjemplo\obj\x86\Debug\AppEjemplo.exe
+C:\Users\andre\onedrive\documentos\visual studio 2010\Projects\AppEjemplo\AppEjemplo\obj\x86\Debug\AppEjemplo.xml
+C:\Users\andre\onedrive\documentos\visual studio 2010\Projects\AppEjemplo\AppEjemplo\obj\x86\Debug\AppEjemplo.pdb
+C:\Users\andre\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjemplo\AppEjemplo\bin\Debug\AppEjemplo.exe
+C:\Users\andre\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjemplo\AppEjemplo\bin\Debug\AppEjemplo.pdb
+C:\Users\andre\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjemplo\AppEjemplo\bin\Debug\AppEjemplo.xml
+C:\Users\andre\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjemplo\AppEjemplo\obj\x86\Debug\AppEjemplo.Form1.resources
+C:\Users\andre\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjemplo\AppEjemplo\obj\x86\Debug\AppEjemplo.Resources.resources
+C:\Users\andre\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjemplo\AppEjemplo\obj\x86\Debug\AppEjemplo.vbproj.GenerateResource.Cache
